@@ -1,0 +1,87 @@
+.heads {
+    background-color: cadetblue;
+    overflow: hidden;
+    padding: 20px 10px;
+}
+.heads a {
+    float: left;
+}
+.heads img {
+    width: 70px;
+    height: auto;
+    border-radius: 50px;
+}
+.navl{
+    float: right;
+}
+.navl a{
+    margin: 10px;
+    color: aliceblue;
+    font-size: 25px;
+    border: 10px;
+    background-color: burlywood;
+}
+body{
+    background-color: blueviolet;
+}
+#logo{
+    margin-top: 100px;
+}
+#logo img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+#logo h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'teko';
+    font-size: 40px;
+}
+#logo p{
+    text-align: center;
+    font-family: 'teko';
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#aboutus h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'teko';
+}
+#aboutus p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'hora';
+}
+#Unique h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'teko';
+}
+#Unique p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'hora';
+}
+#value h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'teko';
+}
+#value p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'hora';
+}
+#Join h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'teko';
+}
+#Join p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'hora';
+}
+

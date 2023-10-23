@@ -1,0 +1,54 @@
+body{
+    background-color: burlywood;
+}
+.headers{
+    overflow: hidden;
+    background-color: rgb(2, 2, 75);
+    padding: 10px 10px;
+}
+.headers img{
+    width: 70px;
+    height: auto;
+    border-radius: 50px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2),
+    0px -8px 16px rgba(189, 1, 1, 0.19);
+}
+.link {
+    float: right;
+}
+.link a img{
+    width: 50px;
+    height: auto;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: brown;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2),
+    0px -8px 16px rgba(0, 0, 0, 0.19);
+    margin: 10px;
+    margin-top: auto;
+}
+.logo{
+    margin-top: 50px;
+}
+.logo img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    display: block;
+}
+#txt h1 {
+    font-size: 24pt;
+    color: rgb(0, 0, 0);
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Teko';
+    font-size: 45px;
+}
+#txt p {
+    font-size: 16pt;
+    color: rgb(0, 0, 0);
+    line-height: 1.8em;
+    text-align: center;
+    font-family: 'hora';
+    font-size: 22PX;
+}
